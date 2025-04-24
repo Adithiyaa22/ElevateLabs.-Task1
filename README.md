@@ -59,7 +59,7 @@ To learn and implement essential data preprocessing techniques, including:
 ## 📦 Files in This Repo
 
 - `titanic_cleaned.csv` – Cleaned dataset ready for ML modeling
-- `task1_titanic_preprocessing.ipynb` – Jupyter/Colab notebook with complete code
+- `task1_titanic_preprocessing.ipynb` – Colab notebook with complete code
 - `README.md` – Summary of the task
 
 ---
